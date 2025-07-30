@@ -1,0 +1,22 @@
+[
+  {
+    "tableId": "table-1",
+    "userId": "user-a",
+    "duration": 300
+  },
+  {
+    "tableId": "table-2",
+    "userId": "user-b",
+    "duration": 600
+  },
+  {
+    "tableId": "table-3",
+    "userId": "user-c",
+    "duration": 900
+  },
+  {
+    "tableId": "table-4",
+    "userId": "user-d",
+    "duration": 1753841717033
+  }
+]
