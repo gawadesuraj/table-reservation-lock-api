@@ -20,4 +20,7 @@ A simple Node.js + Express API to handle temporary table locking and unlocking t
   "duration": 600
 }
 
+### 🧪 Postman Collection
+
+You can test all API endpoints using this [Postman Collection](./TableReservation.postman_collection.json).
 
